@@ -200,12 +200,15 @@ footer {
   justify-content: center;
   align-items: center;
 }
+.home {
+  margin-top: 102px;
+}
 @media (max-width: 500px) {
   .home {
     margin: 0px;
   }
 }
-.home .intro img {
+.home .intro .intro-img {
   width: 100%;
 }
 .home .intro h2 {
